@@ -1,6 +1,6 @@
 local Games = {
-  [3623096087] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV2/Free/refs/heads/main/Key%20System", true))()", -- Muscle Legends
-  [1119466531] = "https://pastebin.com/raw/pe5CGnu6", -- Legends of Speed
+  [3623096087] = "loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV10/Roblox-Scripts/refs/heads/main/Muscle%20Legends.lua", true))()", -- Muscle Legends
+  [1119466531] = "https://raw.githubusercontent.com/EncryptedV10/Roblox-Scripts/refs/heads/main/Legends%20Of%20Speed.lua", -- Legends of Speed
 }
 
 return Games
